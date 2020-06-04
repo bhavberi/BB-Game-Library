@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main_SpacePiano
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ main()
+comment3.params=
+comment3.target=void\ time()
+comment4.params=
+comment4.target=void\ set_start()
+comment5.params=
+comment5.target=void\ set_after()
+comment6.params=
+comment6.target=void\ check()
+numComments=7

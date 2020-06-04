@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main_TA
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ set_start()
+comment3.params=
+comment3.target=void\ set_after()
+comment4.params=
+comment4.target=void\ afterAttack()
+comment5.params=
+comment5.target=void\ check()
+numComments=6

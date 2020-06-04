@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProductKey
+comment1.params=
+comment1.target=ProductKey()
+comment2.params=e
+comment2.target=void\ b2actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ b1actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ initComponents()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=uri
+comment7.target=void\ open(java.net.URI)
+numComments=8

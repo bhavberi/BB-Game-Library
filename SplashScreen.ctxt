@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SplashScreen
+comment1.params=i
+comment1.target=SplashScreen(java.lang.String)
+comment2.params=
+comment2.target=void\ initComponents()
+numComments=3
